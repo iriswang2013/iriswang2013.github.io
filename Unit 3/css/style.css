@@ -1,0 +1,12 @@
+body{
+	text-align: center;
+	font-family: Helvetica;
+	color: teal;
+	background: white;
+}
+h1{
+	color: black;
+}
+#slogan{
+	font-style:italic;
+}
