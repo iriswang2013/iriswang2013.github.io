@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Sacramento);
+@import url(http://fonts.googleapis.com/css?family=Roboto);
 
 body{
 	text-align: center;
-	font-family: Geneva;
+	font-family: 'Roboto', sans-serif;
 	color: rgb(0, 51, 102);
 	background: white;
 }
@@ -15,6 +16,6 @@ h1{
 }
 #slogan{
 	color: rgb(22, 188, 230);
-	font-size: 18px;
+	font-size: 14px;
 	margin-top: 0px;
 }
