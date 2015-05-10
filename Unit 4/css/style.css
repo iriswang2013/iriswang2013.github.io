@@ -11,9 +11,10 @@ h1{
 	font-family: 'Sacramento', cursive;
 	font-size: 70px;
 	margin-bottom: 0px;
+	line-height: 20%;
 }
 #slogan{
 	color: rgb(22, 188, 230);
-	font-size: 24px;
+	font-size: 18px;
 	margin-top: 0px;
 }
