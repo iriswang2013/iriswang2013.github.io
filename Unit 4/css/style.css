@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Sacramento);
-@import url(http://fonts.googleapis.com/css?family=Crete+Round);
+@import url(http://fonts.googleapis.com/css?family=Lora);
 
 body{
 	text-align: center;
-	font-family: 'Crete Round', serif;
+	font-family: 'Lora', serif;
 	font-weight: 100;
 	color: rgb(0, 51, 102);
 	background: white;
@@ -18,7 +18,7 @@ h1{
 #slogan{
 	color: rgb(22, 188, 230);
 	font-size: 20px;
-	font-family: 'Crete Round', serif;
+	font-family: 'Lora', serif;
 	font-weight: 100;
 	margin-top: 0px;
 }
