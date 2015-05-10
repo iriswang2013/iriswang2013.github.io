@@ -5,12 +5,12 @@ body{
 	font-family: Helvetica;
 	color: rgb(22, 188, 230);
 	background: white;
+	margin: 0.5em;
 }
 h1{
 	color: black;
 	font-family: 'Sacramento', cursive;
 	font-size: 70px;
-	margin: 0.5em;
 }
 #slogan{
 	font-style:italic;
