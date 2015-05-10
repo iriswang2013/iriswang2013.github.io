@@ -10,7 +10,7 @@ h1{
 	color: black;
 	font-family: 'Sacramento', cursive;
 	font-size: 70px;
-	padding: 0px;
+	margin-bottom: 0px;
 }
 #slogan{
 	font-style:italic;
