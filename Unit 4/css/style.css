@@ -1,9 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Sacramento);
-@import url(http://fonts.googleapis.com/css?family=Roboto);
 
 body{
 	text-align: center;
-	font-family: 'Roboto', sans-serif;
+	font-family: Geneva;
 	color: rgb(22, 188, 230);
 	background: white;
 }
