@@ -3,12 +3,13 @@
 body{
 	text-align: center;
 	font-family: Helvetica;
-	color: teal;
+	color: #19D1FF;
 	background: white;
 }
 h1{
 	color: black;
 	font-family: 'Sacramento', cursive;
+	font-size: 50px;
 }
 #slogan{
 	font-style:italic;
