@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/css?family=Karla);
+
+h1 {
+	text-align: center;
+	font-family: 'Karla', sans-serif;
+	text-transform: uppercase;
+	font-weight: 800;
+	float: left;
+}
+
+nav {
+	text-align: center;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	font-family: 'Karla', sans-serif;
+	padding: 5px;
+	margin: 1em;
+	border-bottom: 1.5px solid #FF9D1C;
+	float: right;
+}
+
+.clearfix:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+}
+
+a:hover {
+	color: #FF9D1C;
+}
+
+img {
+	display: block;
+	margin: 0;
+	clear: both;
+	width: 100%;
+}
+
+h2 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	color: #FF9D1C;
+}
+
+p {
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-family: 'Karla', sans-serif;
+}
+
+#work {
+	background-color: #DEDEDE;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
