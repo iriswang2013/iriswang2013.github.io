@@ -10,6 +10,7 @@
 
 #navcontainer ul li {
 	display: inline;
+	text-decoration: none;
 }
 
 #navcontainer ul li a {
