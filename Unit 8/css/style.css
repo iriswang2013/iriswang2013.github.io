@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
+#navcontainer ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	border-bottom: 0.05em solid #e0ff62;
+}
+
+#navcontainer ul li {
+	display: inline;
+}
+
+#navcontainer ul li a {
+	text-decoration: none;
+	padding: .4em 3em;
+	border-radius: 5px;
+	font-size: 0.5em;
+}
+
+#navcontainer ul li a:hover {
+	color: #9F39F8;
+	font-weight: bold;
+}
+
+body{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	font-size: 35px;
+	color: black;
+	background: white;
+}
+h1{
+	color: black;
+	font-family: 'Sacramento', cursive;
+	font-size: 2em;
+	margin-bottom: 0px;
+	line-height: 85%;
+}
+#slogan{
+	color: rgb(22, 188, 230);
+	font-size: 0.5em;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 100;
+	margin-top: 0px;
+	padding-bottom: 0.35em;
+}
+
+img {
+	width: 100%;
+}
+
+#contact{
+	font-size: 0.5em;
+}
+
+@media only screen and (max-width: 800px) {
+	#navcontainer ul li {
+		display: block;
+		border-bottom: 0.05em solid #e0ff62;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	#navcontainer ul li {
+		display: block;
+		border-bottom: 0.05em solid #e0ff62;
+	}
+}
